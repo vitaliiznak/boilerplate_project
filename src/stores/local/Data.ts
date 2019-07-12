@@ -35,7 +35,7 @@ export default class Data {
   }
 
   @action public onSearch = ({ type, term }) => {
-    const newQuery = { ...this.query, ...{ search: `${type}:"${term}"` } }
+    const newQuery = { ...this.query, ...{ search: `${type}:"${term.trim()}"` } }
     if (!term) {
       delete newQuery.search
     }

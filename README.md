@@ -6,7 +6,8 @@
 Installed latest [Node.js](https://nodejs.org/en/).
 
 
-## Available Scripts
+## Run application and available scrips 
+Check .env file to configure API uri address
 
 In the project directory, you can run:
 
