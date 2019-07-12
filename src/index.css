@@ -1,0 +1,13 @@
+body {
+    background: #f7f8f9;
+}
+
+.ant-layout-header {
+    background: #fff;
+    padding-left: 8px;
+}
+
+.ant-card {
+    line-height: 1;
+    font-size: 12px;
+}

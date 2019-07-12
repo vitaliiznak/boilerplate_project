@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "./"
+    }
+  ],
+  "settings": {
+    "eslint.alwaysShowStatus": true,
+    "prettier.tslintIntegration": true,
+    "[typescript]": {
+      "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+      "editor.formatOnSave": true
+    }
+  }
+}

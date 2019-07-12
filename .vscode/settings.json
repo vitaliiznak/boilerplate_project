@@ -1,0 +1,19 @@
+{
+      // Enable per-language
+      "[javascriptreact]" : {
+        "editor.formatOnSave": true
+      },
+      "[javascript]": {
+        "editor.formatOnSave": true
+      },
+      "[typescript]": {
+        "editor.formatOnSave": true
+      },
+      "[typescriptreact]": {
+        "editor.formatOnSave": true
+      },
+      "prettier.eslintIntegration": true,
+      "prettier.tslintIntegration": true,
+      "eslint.autoFixOnSave": false,
+      "eslint.alwaysShowStatus": true
+}
